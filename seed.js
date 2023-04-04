@@ -31,12 +31,4 @@ const submissions = [
     author: "Ungarn",
     img: "https://via.placeholder.com/64",
   },
-  {
-    id: 5,
-    title: "Tavuk",
-    desc: "Ein traditionelles Hähnchen.",
-    votes: 35,
-    author: "Türkei",
-    img: "https://via.placeholder.com/64",
-  },
 ];
